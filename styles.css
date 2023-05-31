@@ -1,0 +1,14 @@
+h1 {
+    font-size: medium;
+}
+
+.container {
+    border: 1px;
+    width: 25em;
+    height: 34em;
+}
+
+.tooltip {
+    color:#f28484;
+    cursor: help;
+}

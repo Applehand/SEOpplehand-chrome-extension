@@ -1,0 +1,12 @@
+{
+    "tooltip text": {
+      "text": "These windows can also have <span class='tooltip'>their own tooltip text</span>."
+    },
+    "their own tooltip text": {
+      "text": "Nested tooltips are wild and <span class='tooltip'>wonderful</span>, huh?"
+    },
+    "wonderful": {
+      "text": "Wonderful and wild indeed."
+    }
+  }
+  
